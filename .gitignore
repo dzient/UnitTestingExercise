@@ -43,6 +43,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+appsettings.json
 
 # content below from: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
 # Windows thumbnail cache files
